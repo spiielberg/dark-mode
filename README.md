@@ -1,4 +1,4 @@
 # dark-mode
 Testing dark mode.
 
-[Preview](http://spielberg.dx.am/dark-mode/)
+[Preview](https://dark-mode-spielberg.netlify.app)
